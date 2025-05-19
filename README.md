@@ -1,12 +1,13 @@
-# React + Vite
+# Application To-Do List avancée avec filtrage et persistance
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✅ Description fonctionnelle
+Cette application permet à l’utilisateur de :
 
-Currently, two official plugins are available:
+Ajouter des tâches dans une liste.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Supprimer des tâches avec une animation fluide.
 
-## Expanding the ESLint configuration
+Garder les tâches enregistrées même après avoir rafraîchi ou redémarré l’application.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Profiter automatiquement du thème clair ou sombre en fonction des préférences du système d’exploitation (navigateur).
+
