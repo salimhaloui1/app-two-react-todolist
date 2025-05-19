@@ -1,5 +1,7 @@
 # Application To-Do List avancée avec filtrage et persistance
 
+![Image](https://github.com/user-attachments/assets/10216711-efe2-4e56-a07f-6857373a1068)
+
 ✅ Description fonctionnelle
 Cette application permet à l’utilisateur de :
 
